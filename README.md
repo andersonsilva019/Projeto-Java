@@ -1,7 +1,8 @@
 
 ## :computer: Projeto
+Incompleto
 
-Projeto de um consultorio médico que realiza o controle das consultas.
+Projeto de um consultório médico que realiza o controle das consultas. 
 
 ## :key: Funcionalidade da aplicação
 
