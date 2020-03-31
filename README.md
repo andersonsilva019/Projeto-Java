@@ -2,7 +2,7 @@
 ## :computer: Projeto
 Incompleto
 
-Projeto de um consultório médico que realiza o controle das consultas. 
+Projeto de um consultório médico que realiza o controle das consultas. DESKTOP
 
 ## :key: Funcionalidade da aplicação
 
